@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 2 .flex-container {
+        
+    display: flex;
+}
+.div1 , .div2 , .div3 {
+  border: darkkhaki;
+}
+.div1 {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    margin-left: 100px ;
+}
+.div2 {
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+}
+
+
+
+
+
+
+
+div1, .div12 {
+    border: black;
+    background-color: coral;
+}
+.div2{
+    border: black;
+    background-color: green;
+}
+.div3{
+    border: black;
+    background-color: blue;
+}
+
+
+
+
+/*
+.capa1 {
+    margin: 30px;
+    padding: 20px;
+    width: 500px;
+    height: 300px;
+    background-color: rgb(55, 0, 255);
+}
+
+.capa2 {
+ margin: 30px;
+ padding: 20px;
+ width: 400px;
+ height: 200px;
+ background-color: rgb(10, 10, 10);
+}
+
+.capas3{
+    margin: 30px;
+    padding: 20px;
+    width: 300px;
+    height: 100px;
+    background-color: rgb(101, 184, 33);
+}
